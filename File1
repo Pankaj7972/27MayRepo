@@ -1,0 +1,4 @@
+resource "azurerm_reource_group" "RG1" {
+name="P1"
+location="eastus"
+}
